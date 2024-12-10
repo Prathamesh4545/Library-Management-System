@@ -15,7 +15,7 @@
         <nav>
             <ul>
                 <li><a href="index.jsp">Home</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="Contact.jsp">Contact</a></li>
 
                 <%-- Check if the user is logged in --%>
                 <%

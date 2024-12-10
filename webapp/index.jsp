@@ -88,8 +88,7 @@
 				<p>
 					Author:
 					<%=rs.getString(3)%><br> Genre:
-					<%=rs.getString(4)%><br> Available:
-					<%=rs.getBoolean(5) ? "Yes" : "No"%><br>
+					<%=rs.getString(4)%><br>
 				</p>
 				<!-- Download button that links directly to the PDF file -->
 				<a href="downloadPdf?bookId=<%=rs.getInt(1)%>">
