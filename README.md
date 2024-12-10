@@ -1,7 +1,7 @@
 # Library Management System
 
 ## Overview
-The Library Management System is a web application designed to help manage and track books in a library. It allows users to add, update, and search for books, as well as download book information in PDF format.
+The Library Management System is a web application designed to help manage and track books in a library. It allows users to add, update, and search for books, as well as download book in PDF format.
 
 ## Features
 - **Add Books**: Add new books to the library database with details such as title, author, genre, and cover image.
